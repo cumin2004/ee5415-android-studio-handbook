@@ -2,6 +2,10 @@
 
 [Android Studio 与模拟器操作手册](Android-Studio.md) · [完整 Android Studio 工程包](BMI-Android-Projects.zip)
 
+## 从 BMI 改成其他应用
+
+[把 A02 BMI 改成普通计算器](BMI-to-Calculator.md) 按文件标出要删、要换和要新增的代码，也说明数字键盘、温度换算、平均速度、折扣、第二页和保存怎么接。
+
 ## 作业目录
 
 ### [A02-BMI 逐文件注释](A02-BMI.md)
